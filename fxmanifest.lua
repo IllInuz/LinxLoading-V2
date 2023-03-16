@@ -12,7 +12,6 @@ files {
   'logo.png',
   'html/app.js',
   'html/particles.js',
-  'background.jpg',
 }
 
 loadscreen_manual_shutdown "yes"
