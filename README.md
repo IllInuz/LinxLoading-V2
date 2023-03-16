@@ -6,7 +6,7 @@
 - Simple, yet effective and neat looking loading screen.
 - Very easy setup.
 
->To modify the logo just replace the existing logo.png.
+>To modify the logo just replace the existing html/logo.png.
 >Resolution is 96x96 pixels.
 
 ## Changing the song.

@@ -7,11 +7,7 @@ version '2.0.0'
 client_script "client.lua"
 
 files {
-  'html/index.html',
-  'html/main.css',
-  'logo.png',
-  'html/app.js',
-  'html/particles.js',
+  'html/*.*'
 }
 
 loadscreen_manual_shutdown "yes"
