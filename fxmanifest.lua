@@ -10,7 +10,6 @@ files {
   'html/index.html',
   'html/main.css',
   'logo.png',
-  'music/music.ogg',
   'html/app.js',
   'html/particles.js',
   'background.jpg',
