@@ -17,4 +17,4 @@ files {
 }
 
 loadscreen_manual_shutdown "yes"
-loadscreen 'index.html'
+loadscreen 'html/index.html'
