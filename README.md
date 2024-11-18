@@ -1,6 +1,4 @@
 # LinxLoadingV2
-# for support : https://discord.gg/join/PMJnpZxW3S
-
 ## Features
 
 - Simple, yet effective and neat looking loading screen.
